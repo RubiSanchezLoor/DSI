@@ -1,0 +1,52 @@
+/* change your card color */
+
+/* if you want change card color please specify your name as selector */
+
+.philip {
+  background-color: #5f067b;
+}
+
+.joyal {
+  background-color: #4e739c;
+}
+
+.Kilari {
+  background-color: rgb(229, 9, 20);
+}
+
+.tonal {
+  background-color: #43aa8b;
+}
+
+.demo {
+  background-color: #35cce0;
+}
+
+.roncy {
+  background-color: #a287f4;
+}
+
+.irwanphan {
+  background: linear-gradient(270deg, #13d522, #000f0b);
+	background-size: 400% 400%;
+	-webkit-animation: sway 30s ease infinite;
+	-moz-animation: sway 30s ease infinite;
+	animation: sway 30s ease infinite;
+}
+@-webkit-keyframes sway {
+  0% {background-position: 0% 50%;}
+	50% {background-position: 100% 50%;}
+	100% {background-position: 0% 50%;}
+}
+@-moz-keyframes sway {
+	0% {background-position: 0% 50%;}
+	50% {background-position: 100% 50%;}
+	100% {background-position: 0% 50%;}
+}
+@keyframes sway {
+	0% {background-position: 0% 50%;}
+	50% {background-position: 100% 50%;}
+	100% {background-position: 0% 50%;}
+}
+
+
